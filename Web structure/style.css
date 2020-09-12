@@ -1,0 +1,50 @@
+.mainpage{
+    border: black;
+    border-style: dashed;
+    background-color: tomato;
+}
+.border{
+    border: black;
+    border-style: dashed;
+}
+.headerpage {
+    background-color: green;
+    border: black;
+    border-style: dashed;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.bodypage{
+    background-color: burlywood;
+    color: white;
+    border:black; 
+    border-style: dashed;
+    height: 75%;
+}
+
+.menubar{
+    display: inline-block;
+    background-color: brown;
+    color: white;
+    margin-top: 5px;
+    width: 150px;
+    border: black;
+    border-style: dashed; 
+    float: left;
+}
+
+.content{
+    background-color: teal;
+    margin-left: 200px;
+    border: black;
+    border-style: dashed;
+}
+
+.subcontent{
+    background-color: blueviolet;
+    color: white;
+    border: black;
+    border-style: dashed;
+    position: relative;
+}
